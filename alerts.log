@@ -1,0 +1,293 @@
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 92
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 92
+192.168.80.135 -> 192.168.80.2 | Protocol: UDP | Length: 87
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 92
+192.168.80.2 -> 192.168.80.135 | Protocol: UDP | Length: 142
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+192.168.80.135 -> 192.168.80.2 | Protocol: UDP | Length: 87
+192.168.80.2 -> 192.168.80.135 | Protocol: UDP | Length: 142
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+192.168.80.135 -> 192.168.80.2 | Protocol: UDP | Length: 87
+192.168.80.2 -> 192.168.80.135 | Protocol: UDP | Length: 142
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+192.168.80.135 -> 192.168.80.2 | Protocol: UDP | Length: 87
+192.168.80.2 -> 192.168.80.135 | Protocol: UDP | Length: 142
+192.168.80.135 -> 192.168.80.2 | Protocol: UDP | Length: 87
+192.168.80.2 -> 192.168.80.135 | Protocol: UDP | Length: 142
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (11 ports in 10s). Examples: [137, 137, 137, 1947, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (12 ports in 10s). Examples: [137, 137, 137, 1947, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (13 ports in 10s). Examples: [137, 137, 137, 1947, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (14 ports in 10s). Examples: [137, 137, 137, 1947, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (15 ports in 10s). Examples: [137, 137, 137, 1947, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (16 ports in 10s). Examples: [137, 137, 137, 1947, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (17 ports in 10s). Examples: [137, 137, 137, 1947, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (18 ports in 10s). Examples: [137, 137, 137, 137, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 92
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (19 ports in 10s). Examples: [137, 137, 137, 137, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (20 ports in 10s). Examples: [137, 137, 137, 137, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (21 ports in 10s). Examples: [137, 137, 137, 137, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (22 ports in 10s). Examples: [137, 137, 137, 137, 137, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 92
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (23 ports in 10s). Examples: [137, 137, 137, 137, 137, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (24 ports in 10s). Examples: [137, 137, 137, 137, 137, 137, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 92
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (25 ports in 10s). Examples: [137, 137, 137, 137, 137, 137, 137, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 92
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (26 ports in 10s). Examples: [137, 137, 137, 137, 137, 137, 137, 137, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 92
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (26 ports in 10s). Examples: [137, 137, 137, 137, 137, 137, 137, 137, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 92
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+192.168.80.135 -> 192.168.80.2 | Protocol: UDP | Length: 87
+192.168.80.2 -> 192.168.80.135 | Protocol: UDP | Length: 142
+192.168.80.135 -> 192.168.80.2 | Protocol: UDP | Length: 87
+192.168.80.2 -> 192.168.80.135 | Protocol: UDP | Length: 142
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+192.168.80.135 -> 192.168.80.2 | Protocol: UDP | Length: 87
+192.168.80.2 -> 192.168.80.135 | Protocol: UDP | Length: 142
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+192.168.80.135 -> 192.168.80.2 | Protocol: UDP | Length: 87
+192.168.80.2 -> 192.168.80.135 | Protocol: UDP | Length: 142
+192.168.80.135 -> 192.168.80.2 | Protocol: UDP | Length: 87
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+192.168.80.2 -> 192.168.80.135 | Protocol: UDP | Length: 142
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (11 ports in 10s). Examples: [1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (12 ports in 10s). Examples: [1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (13 ports in 10s). Examples: [1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (14 ports in 10s). Examples: [1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (15 ports in 10s). Examples: [1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (16 ports in 10s). Examples: [1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (17 ports in 10s). Examples: [1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+[93m🔺 ALERT: UDP scan from 192.168.80.1 (18 ports in 10s). Examples: [1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947, 1947]...[0m
+192.168.80.1 -> 192.168.80.255 | Protocol: UDP | Length: 82
+2025-08-21 21:44:16 SYN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=8080 details=11 ports in 10s (e.g., 22, 53, 80, 135, 139, 143, 443, 995, 1025, 5900...)
+2025-08-21 21:44:17 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=101 pkts in 10s
+2025-08-21 21:44:19 SYN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=1072 details=534 ports in 10s (e.g., 3, 4, 6, 7, 9, 17, 20, 21, 22, 23...)
+2025-08-21 21:44:20 Flood 192.168.80.129 -> 192.168.80.2 proto=Mixed port=None details=2004 pkts in 10s
+2025-08-21 21:44:20 UDP Scan 192.168.80.129 -> 192.168.80.2 proto=UDP port=53 details=1000 ports in 10s (e.g., 1, 3, 4, 6, 7, 9, 13, 17, 19, 20...)
+2025-08-21 21:44:23 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=21 details=1000 ports in 10s (e.g., 1, 3, 4, 6, 7, 9, 13, 17, 19, 20...)
+2025-08-21 21:44:24 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=2015 pkts in 10s
+2025-08-21 21:44:26 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=9100 details=1000 ports in 10s (e.g., 1, 3, 4, 6, 7, 9, 13, 17, 19, 20...)
+2025-08-21 21:44:27 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=2302 pkts in 10s
+2025-08-21 21:44:29 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=5825 details=729 ports in 10s (e.g., 1, 3, 4, 6, 9, 13, 17, 19, 20, 21...)
+2025-08-21 21:44:30 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=1027 pkts in 10s
+2025-08-21 21:44:32 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=3878 details=401 ports in 10s (e.g., 1, 4, 20, 21, 22, 23, 24, 25, 32, 33...)
+2025-08-21 21:44:33 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=901 pkts in 10s
+2025-08-21 21:44:35 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=82 details=501 ports in 10s (e.g., 1, 4, 6, 17, 20, 24, 32, 33, 79, 82...)
+2025-08-21 21:44:36 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-21 21:44:38 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=1984 details=501 ports in 10s (e.g., 1, 4, 6, 7, 17, 49, 82, 83, 85, 89...)
+2025-08-21 21:44:39 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-21 21:44:41 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=222 details=501 ports in 10s (e.g., 3, 6, 7, 17, 19, 30, 42, 49, 81, 82...)
+2025-08-21 21:44:42 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-21 21:44:44 UDP Scan 192.168.80.129 -> 192.168.80.2 proto=UDP port=53 details=491 ports in 10s (e.g., 3, 7, 9, 13, 19, 26, 30, 37, 42, 43...)
+2025-08-21 21:44:44 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=23 details=486 ports in 10s (e.g., 3, 7, 9, 13, 19, 23, 26, 30, 37, 42...)
+2025-08-21 21:44:45 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=866 pkts in 10s
+2025-08-21 21:44:47 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=44501 details=406 ports in 10s (e.g., 3, 9, 13, 19, 21, 22, 23, 25, 26, 30...)
+2025-08-21 21:44:48 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=866 pkts in 10s
+2025-08-21 21:44:50 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=6566 details=391 ports in 10s (e.g., 9, 13, 20, 21, 22, 23, 25, 26, 32, 37...)
+2025-08-21 21:44:51 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=866 pkts in 10s
+2025-08-21 21:44:53 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=7999 details=416 ports in 10s (e.g., 17, 20, 21, 22, 23, 25, 26, 32, 37, 49...)
+2025-08-21 21:44:54 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=901 pkts in 10s
+2025-08-21 21:44:56 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=55600 details=501 ports in 10s (e.g., 17, 19, 20, 26, 32, 33, 37, 42, 49, 70...)
+2025-08-21 21:44:57 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-21 21:44:59 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=27355 details=501 ports in 10s (e.g., 6, 17, 19, 20, 24, 26, 33, 37, 42, 43...)
+2025-08-21 21:45:00 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-21 21:45:02 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=5033 details=501 ports in 10s (e.g., 1, 3, 4, 6, 7, 9, 19, 24, 30, 33...)
+2025-08-21 21:45:03 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-21 21:45:05 UDP Scan 192.168.80.129 -> 192.168.80.2 proto=UDP port=53 details=491 ports in 10s (e.g., 1, 3, 4, 6, 7, 9, 13, 24, 30, 43...)
+2025-08-21 21:45:05 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=554 details=491 ports in 10s (e.g., 1, 3, 4, 6, 7, 9, 13, 24, 30, 43...)
+2025-08-21 21:45:06 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=872 pkts in 10s
+2025-08-21 21:45:08 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=1145 details=413 ports in 10s (e.g., 1, 3, 4, 6, 7, 9, 13, 21, 22, 23...)
+2025-08-21 21:45:09 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=872 pkts in 10s
+2025-08-21 21:45:11 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=49159 details=396 ports in 10s (e.g., 4, 6, 7, 13, 20, 21, 22, 23, 25, 30...)
+2025-08-21 21:45:12 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=872 pkts in 10s
+2025-08-21 21:45:14 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=3260 details=431 ports in 10s (e.g., 4, 6, 17, 20, 21, 22, 23, 25, 49, 53...)
+2025-08-21 21:45:15 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=901 pkts in 10s
+2025-08-21 21:45:17 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=1029 details=501 ports in 10s (e.g., 4, 6, 7, 17, 20, 33, 37, 42, 49, 79...)
+2025-08-21 21:45:18 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-21 21:45:20 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=1055 details=501 ports in 10s (e.g., 7, 9, 13, 17, 20, 26, 33, 37, 42, 49...)
+2025-08-21 21:45:21 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-21 21:45:23 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=389 details=501 ports in 10s (e.g., 1, 3, 7, 9, 13, 24, 26, 33, 37, 42...)
+2025-08-21 21:45:24 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-21 21:45:27 UDP Scan 192.168.80.129 -> 192.168.80.2 proto=UDP port=53 details=491 ports in 10s (e.g., 1, 3, 9, 13, 19, 24, 26, 30, 32, 37...)
+2025-08-21 21:45:28 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=862 pkts in 10s
+2025-08-21 21:45:30 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=40708 details=437 ports in 10s (e.g., 1, 3, 9, 19, 24, 30, 32, 43, 53, 70...)
+2025-08-21 21:45:31 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=875 pkts in 10s
+2025-08-21 21:45:33 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=1039 details=432 ports in 10s (e.g., 3, 19, 30, 32, 43, 53, 80, 82, 111, 138...)
+2025-08-21 21:45:34 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=894 pkts in 10s
+2025-08-21 21:45:36 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=5050 details=441 ports in 10s (e.g., 20, 30, 43, 49, 53, 80, 111, 113, 137, 138...)
+2025-08-21 21:45:37 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=941 pkts in 10s
+2025-08-21 21:45:39 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=43686 details=500 ports in 10s (e.g., 7, 13, 20, 49, 53, 68, 80, 88, 111, 112...)
+2025-08-21 21:45:40 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=1037 pkts in 10s
+2025-08-21 21:45:42 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=41081 details=500 ports in 10s (e.g., 2, 7, 13, 19, 20, 21, 23, 49, 53, 68...)
+2025-08-21 21:45:43 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=1031 pkts in 10s
+2025-08-21 21:45:45 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=28369 details=500 ports in 10s (e.g., 2, 3, 7, 9, 13, 17, 19, 21, 23, 42...)
+2025-08-21 21:45:46 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=1081 pkts in 10s
+2025-08-22 11:41:21 SYN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=443 details=11 ports in 10s (e.g., 25, 53, 80, 113, 143, 199, 256, 443, 445, 554...)
+2025-08-22 11:41:21 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=101 pkts in 10s
+2025-08-22 11:41:24 SYN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=311 details=844 ports in 10s (e.g., 1, 3, 4, 5, 6, 7, 10, 11, 12, 13...)
+2025-08-22 11:41:24 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=1878 pkts in 10s
+2025-08-22 11:45:56 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=554 details=11 ports in 10s (e.g., 23, 53, 110, 111, 113, 135, 139, 199, 443, 554...)
+2025-08-22 11:45:58 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=101 pkts in 10s
+2025-08-22 11:45:59 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=247 details=101 ports in 10s (e.g., 5, 6, 21, 22, 23, 25, 37, 43, 48, 53...)
+2025-08-22 11:46:01 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=392 pkts in 10s
+2025-08-22 11:46:02 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=563 details=251 ports in 10s (e.g., 5, 6, 8, 21, 22, 23, 25, 27, 31, 32...)
+2025-08-22 11:46:04 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=692 pkts in 10s
+2025-08-22 11:46:05 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=537 details=401 ports in 10s (e.g., 4, 5, 6, 8, 10, 17, 21, 22, 23, 25...)
+2025-08-22 11:46:07 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=981 pkts in 10s
+2025-08-22 11:46:08 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=882 details=501 ports in 10s (e.g., 2, 3, 4, 6, 8, 9, 10, 13, 17, 18...)
+2025-08-22 11:46:10 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 11:46:11 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=829 details=501 ports in 10s (e.g., 1, 2, 3, 4, 9, 10, 12, 13, 17, 18...)
+2025-08-22 11:46:13 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 11:46:14 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=246 details=501 ports in 10s (e.g., 1, 2, 3, 7, 9, 11, 12, 13, 17, 18...)
+2025-08-22 11:46:16 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 11:51:07 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=135 details=11 ports in 10s (e.g., 22, 23, 53, 80, 110, 111, 135, 139, 143, 256...)
+2025-08-22 11:51:07 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=101 pkts in 10s
+2025-08-22 11:51:10 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=170 details=161 ports in 10s (e.g., 3, 10, 18, 20, 21, 22, 23, 25, 39, 42...)
+2025-08-22 11:51:10 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=392 pkts in 10s
+2025-08-22 11:51:13 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=283 details=311 ports in 10s (e.g., 2, 3, 5, 10, 11, 15, 17, 18, 20, 21...)
+2025-08-22 11:51:13 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=692 pkts in 10s
+2025-08-22 11:51:16 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=34 details=461 ports in 10s (e.g., 2, 3, 5, 9, 10, 11, 12, 15, 17, 18...)
+2025-08-22 11:51:16 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=981 pkts in 10s
+2025-08-22 11:51:19 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=273 details=501 ports in 10s (e.g., 2, 5, 8, 9, 11, 12, 15, 17, 24, 27...)
+2025-08-22 11:51:19 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 11:51:22 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=470 details=501 ports in 10s (e.g., 4, 6, 7, 8, 9, 12, 13, 14, 19, 24...)
+2025-08-22 11:51:22 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 11:51:25 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=359 details=501 ports in 10s (e.g., 4, 6, 7, 8, 9, 13, 14, 16, 19, 24...)
+2025-08-22 11:51:25 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 12:01:31 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=143 details=11 ports in 10s (e.g., 22, 23, 53, 80, 113, 143, 199, 443, 554, 993...)
+2025-08-22 12:01:32 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=101 pkts in 10s
+2025-08-22 12:01:34 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=538 details=161 ports in 10s (e.g., 2, 5, 9, 11, 12, 13, 15, 19, 20, 21...)
+2025-08-22 12:01:35 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=393 pkts in 10s
+2025-08-22 12:01:37 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=733 details=311 ports in 10s (e.g., 1, 2, 5, 9, 11, 12, 13, 15, 19, 20...)
+2025-08-22 12:01:38 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=692 pkts in 10s
+2025-08-22 12:01:40 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=305 details=461 ports in 10s (e.g., 1, 2, 4, 5, 6, 9, 11, 12, 13, 15...)
+2025-08-22 12:01:41 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=981 pkts in 10s
+2025-08-22 12:01:43 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=807 details=501 ports in 10s (e.g., 1, 4, 6, 9, 12, 13, 15, 18, 26, 29...)
+2025-08-22 12:01:44 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 12:01:46 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=411 details=501 ports in 10s (e.g., 4, 6, 18, 24, 26, 29, 34, 38, 41, 45...)
+2025-08-22 12:01:47 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 12:01:49 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=446 details=501 ports in 10s (e.g., 3, 7, 8, 14, 17, 18, 24, 26, 27, 35...)
+2025-08-22 12:01:50 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 12:04:57 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=18255 details=11 ports in 10s (e.g., 53, 775, 902, 1007, 18255, 19120, 20851, 22045, 35438, 41971...)
+2025-08-22 12:04:58 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=101 pkts in 10s
+2025-08-22 12:05:00 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=38063 details=102 ports in 10s (e.g., 7, 53, 69, 135, 136, 162, 207, 497, 623, 764...)
+2025-08-22 12:05:01 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=412 pkts in 10s
+2025-08-22 12:05:03 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=17787 details=353 ports in 10s (e.g., 7, 22, 23, 42, 49, 53, 67, 68, 69, 112...)
+2025-08-22 12:05:04 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=2055 pkts in 10s
+2025-08-22 12:07:58 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=101 pkts in 10s
+2025-08-22 12:08:01 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=1511 pkts in 10s
+2025-08-22 12:08:04 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=2551 pkts in 10s
+2025-08-22 12:08:07 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=4458 pkts in 10s
+2025-08-22 12:08:10 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=6106 pkts in 10s
+2025-08-22 12:08:13 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=7199 pkts in 10s
+2025-08-22 12:08:16 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=7652 pkts in 10s
+2025-08-22 12:08:19 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=6873 pkts in 10s
+2025-08-22 12:08:22 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=6295 pkts in 10s
+2025-08-22 12:08:25 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=6356 pkts in 10s
+2025-08-22 12:08:28 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=6623 pkts in 10s
+2025-08-22 12:08:31 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=7123 pkts in 10s
+2025-08-22 12:08:34 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=7407 pkts in 10s
+2025-08-22 12:14:10 SYN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=993 details=11 ports in 10s (e.g., 21, 53, 80, 113, 139, 143, 256, 443, 554, 993...)
+2025-08-22 12:14:10 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=101 pkts in 10s
+2025-08-22 12:14:13 SYN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=69 details=884 ports in 10s (e.g., 1, 2, 3, 4, 5, 6, 7, 8, 9, 10...)
+2025-08-22 12:14:13 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=1881 pkts in 10s
+2025-08-22 12:14:14 UDP Scan 192.168.80.129 -> 192.168.80.2 proto=UDP port=53 details=1000 ports in 10s (e.g., 1, 2, 3, 4, 5, 6, 7, 8, 9, 10...)
+2025-08-22 12:14:14 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=22 details=1000 ports in 10s (e.g., 1, 2, 3, 4, 5, 6, 7, 8, 9, 10...)
+2025-08-22 12:14:16 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=2154 pkts in 10s
+2025-08-22 12:14:17 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=490 details=1000 ports in 10s (e.g., 1, 2, 3, 4, 5, 6, 7, 8, 9, 10...)
+2025-08-22 12:14:19 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=2443 pkts in 10s
+2025-08-22 12:14:20 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=609 details=1000 ports in 10s (e.g., 1, 2, 3, 4, 5, 6, 7, 8, 9, 10...)
+2025-08-22 12:14:22 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=1570 pkts in 10s
+2025-08-22 12:14:23 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=594 details=557 ports in 10s (e.g., 1, 2, 3, 4, 6, 7, 8, 9, 10, 14...)
+2025-08-22 12:14:25 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 12:14:26 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=729 details=501 ports in 10s (e.g., 1, 2, 3, 4, 6, 8, 9, 10, 12, 13...)
+2025-08-22 12:14:28 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 12:14:29 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=124 details=501 ports in 10s (e.g., 3, 4, 8, 9, 12, 13, 14, 15, 18, 19...)
+2025-08-22 12:14:31 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 12:14:32 FIN Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=94 details=501 ports in 10s (e.g., 3, 5, 8, 12, 13, 14, 15, 18, 27, 28...)
+2025-08-22 12:14:34 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 12:14:35 UDP Scan 192.168.80.129 -> 192.168.80.2 proto=UDP port=53 details=490 ports in 10s (e.g., 5, 11, 18, 26, 27, 32, 35, 38, 40, 42...)
+2025-08-22 12:14:35 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=995 details=482 ports in 10s (e.g., 5, 11, 18, 26, 27, 32, 35, 38, 40, 42...)
+2025-08-22 12:14:37 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=865 pkts in 10s
+2025-08-22 12:14:38 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=886 details=402 ports in 10s (e.g., 1, 5, 10, 11, 17, 19, 21, 22, 23, 25...)
+2025-08-22 12:14:40 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=863 pkts in 10s
+2025-08-22 12:14:41 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=758 details=381 ports in 10s (e.g., 1, 6, 10, 11, 17, 19, 20, 21, 22, 23...)
+2025-08-22 12:14:43 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=863 pkts in 10s
+2025-08-22 12:14:44 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=142 details=418 ports in 10s (e.g., 1, 4, 6, 10, 11, 17, 19, 20, 21, 22...)
+2025-08-22 12:14:46 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 12:14:47 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=419 details=501 ports in 10s (e.g., 4, 6, 11, 14, 15, 17, 19, 20, 24, 26...)
+2025-08-22 12:14:49 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 12:14:50 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=956 details=501 ports in 10s (e.g., 2, 4, 5, 6, 7, 8, 9, 11, 12, 14...)
+2025-08-22 12:14:52 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 12:14:53 Xmas Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=155 details=501 ports in 10s (e.g., 2, 3, 5, 7, 8, 9, 11, 12, 13, 14...)
+2025-08-22 12:14:55 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 12:14:56 UDP Scan 192.168.80.129 -> 192.168.80.2 proto=UDP port=53 details=491 ports in 10s (e.g., 2, 3, 5, 7, 8, 9, 11, 12, 13, 15...)
+2025-08-22 12:14:56 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=443 details=482 ports in 10s (e.g., 2, 3, 5, 7, 8, 9, 11, 12, 13, 15...)
+2025-08-22 12:14:58 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=869 pkts in 10s
+2025-08-22 12:14:59 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=6 details=405 ports in 10s (e.g., 2, 3, 5, 6, 13, 16, 18, 21, 22, 23...)
+2025-08-22 12:15:01 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=866 pkts in 10s
+2025-08-22 12:15:02 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=185 details=385 ports in 10s (e.g., 2, 3, 6, 15, 18, 21, 22, 23, 25, 27...)
+2025-08-22 12:15:04 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=865 pkts in 10s
+2025-08-22 12:15:05 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=799 details=416 ports in 10s (e.g., 2, 4, 6, 14, 15, 16, 18, 21, 22, 23...)
+2025-08-22 12:15:07 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=981 pkts in 10s
+2025-08-22 12:15:08 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=491 details=501 ports in 10s (e.g., 1, 2, 3, 4, 6, 12, 13, 14, 15, 16...)
+2025-08-22 12:15:10 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 12:15:11 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=406 details=501 ports in 10s (e.g., 1, 3, 4, 10, 11, 12, 13, 14, 15, 16...)
+2025-08-22 12:15:13 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 12:15:14 Null Scan 192.168.80.129 -> 192.168.80.135 proto=TCP port=757 details=501 ports in 10s (e.g., 1, 3, 4, 5, 10, 11, 12, 13, 18, 19...)
+2025-08-22 12:15:16 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=991 pkts in 10s
+2025-08-22 12:15:18 UDP Scan 192.168.80.129 -> 192.168.80.2 proto=UDP port=53 details=490 ports in 10s (e.g., 5, 7, 8, 9, 10, 11, 17, 19, 20, 26...)
+2025-08-22 12:15:19 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=856 pkts in 10s
+2025-08-22 12:15:21 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=32798 details=433 ports in 10s (e.g., 5, 7, 8, 9, 17, 19, 26, 30, 33, 41...)
+2025-08-22 12:15:22 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=872 pkts in 10s
+2025-08-22 12:15:24 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=21784 details=429 ports in 10s (e.g., 7, 8, 9, 17, 23, 30, 33, 41, 43, 49...)
+2025-08-22 12:15:25 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=884 pkts in 10s
+2025-08-22 12:15:27 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=21566 details=431 ports in 10s (e.g., 3, 23, 42, 53, 67, 68, 69, 80, 113, 123...)
+2025-08-22 12:15:28 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=995 pkts in 10s
+2025-08-22 12:15:30 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=17629 details=500 ports in 10s (e.g., 3, 17, 20, 21, 23, 42, 49, 53, 67, 68...)
+2025-08-22 12:15:32 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=1042 pkts in 10s
+2025-08-22 12:15:33 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=781 details=500 ports in 10s (e.g., 3, 7, 13, 17, 20, 21, 23, 42, 49, 68...)
+2025-08-22 12:15:35 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=1045 pkts in 10s
+2025-08-22 12:15:36 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=10000 details=500 ports in 10s (e.g., 3, 7, 9, 13, 17, 20, 21, 49, 88, 111...)
+2025-08-22 12:15:38 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=1041 pkts in 10s
+2025-08-22 12:15:39 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=20876 details=500 ports in 10s (e.g., 2, 7, 9, 13, 19, 21, 22, 37, 38, 88...)
+2025-08-22 12:15:41 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=1546 pkts in 10s
+2025-08-22 12:15:42 UDP Scan 192.168.80.129 -> 192.168.80.135 proto=UDP port=53 details=351 ports in 10s (e.g., 2, 9, 19, 22, 37, 38, 53, 111, 120, 136...)
+2025-08-22 12:16:14 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=101 pkts in 10s
+2025-08-22 12:16:17 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=1519 pkts in 10s
+2025-08-22 12:16:25 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=1484 pkts in 10s
+2025-08-22 12:16:28 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=1393 pkts in 10s
+2025-08-22 12:16:31 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=4403 pkts in 10s
+2025-08-22 12:16:34 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=6360 pkts in 10s
+2025-08-22 12:16:37 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=7816 pkts in 10s
+2025-08-22 12:16:40 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=7485 pkts in 10s
+2025-08-22 12:16:43 Flood 192.168.80.129 -> 192.168.80.135 proto=Mixed port=None details=6217 pkts in 10s
